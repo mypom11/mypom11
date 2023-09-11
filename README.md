@@ -27,6 +27,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mypom11)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently intersting...
+
+- 
   ![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAF) ![svetle](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00) ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
   
 </div>
